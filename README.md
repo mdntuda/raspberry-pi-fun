@@ -1,2 +1,2 @@
-# raspberry-pi-fun
-This repo contains small scripts written specific for the Raspberry Pi.
+# Debian configuration and all the helpful stuffs
+This repo contains configurations of my Debian system and additional helpful things for daily work with Debian.
